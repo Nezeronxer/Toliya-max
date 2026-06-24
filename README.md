@@ -13,8 +13,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Nezeronxer?tab=repositories">
-    <img alt="GitHub repositories" src="https://img.shields.io/badge/repositories-111111?style=for-the-badge&logo=github&logoColor=white">
+  <a href="https://github.com/Nezeronxer">
+    <img alt="GitHub profile" src="https://img.shields.io/badge/github-profile-111111?style=for-the-badge&logo=github&logoColor=white">
   </a>
   <a href="https://www.youtube.com/@nezeron666">
     <img alt="YouTube channel" src="https://img.shields.io/badge/youtube-@nezeron666-111111?style=for-the-badge&logo=youtube&logoColor=ff4b4b">
