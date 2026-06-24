@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Toliya-max?tab=repositories">
+  <a href="https://github.com/Nezeronxer?tab=repositories">
     <img alt="GitHub repositories" src="https://img.shields.io/badge/repositories-111111?style=for-the-badge&logo=github&logoColor=white">
   </a>
   <a href="https://www.youtube.com/@nezeron666">
@@ -98,14 +98,14 @@ My favorite kind of project is calm on the surface and stubborn under load: clea
 ## GitHub Stats
 
 <p align="center">
-  <img height="165" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Toliya-max&show_icons=true&hide_border=true&theme=transparent&title_color=ffffff&text_color=c9d1d9&icon_color=a78bfa&bg_color=00000000">
-  <img height="165" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Toliya-max&layout=compact&hide_border=true&theme=transparent&title_color=ffffff&text_color=c9d1d9&bg_color=00000000">
+  <img height="165" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Nezeronxer&show_icons=true&hide_border=true&theme=transparent&title_color=ffffff&text_color=c9d1d9&icon_color=a78bfa&bg_color=00000000">
+  <img height="165" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nezeronxer&layout=compact&hide_border=true&theme=transparent&title_color=ffffff&text_color=c9d1d9&bg_color=00000000">
 </p>
 
 ## Contact
 
 The best place to reach me is through GitHub or Discord.
 
-- GitHub: [Nezeronxer](https://github.com/Toliya-max)
+- GitHub: [Nezeronxer](https://github.com/Nezeronxer)
 - Discord: **nezeronxer**
 - YouTube: [@nezeron666](https://www.youtube.com/@nezeron666)
